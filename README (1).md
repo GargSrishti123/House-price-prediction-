@@ -1,7 +1,7 @@
 
 # House Price Prediction 
 
-This model includes a regression problem for predicting the house pricce for the delhi city based on the features like Location,Area,BHK,Furnishing,etc.
+This model includes a regression problem for predicting the house price for the delhi city based on the features like Location,Area,BHK,Furnishing,etc.
 
 
 
