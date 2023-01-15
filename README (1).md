@@ -21,6 +21,7 @@ This model uses the following libraries:
 * Numpy
 * Pandas
 * Matplotlib
+* Plotly
 * Seaborn
 * Scikit-learn
 
